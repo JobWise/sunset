@@ -16,6 +16,7 @@ function App() {
             The job placement and outcome tracking services of Jobwise are no
             longer supported. We apologize for any inconvenience.
             <br />
+            <br />
             You may request a data export of your outcome information by
             reaching out to support@jobwise.com.
           </p>
