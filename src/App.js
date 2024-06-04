@@ -20,6 +20,15 @@ function App() {
             You may request a data export of your outcome information by
             reaching out to support@jobwise.com.
           </p>
+
+          <a
+            style={{ color: "white", fontSize: 18 }}
+            href="https://jobwise.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            See the new Jobwise
+          </a>
         </div>
       </header>
     </div>
